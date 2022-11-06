@@ -1,4 +1,4 @@
 Hi, I'm Mirjalol Inomjonov <br />
 
 Languages and tools I work with: <br/>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyUOKsMJ-EtuwcuD_tNMjT1RZKH0RCWJKL0A&usqp=CAU" width="30px" /><code/>
+<code><img src="https://www.freeiconspng.com/thumbs/html5-icon/w3c-html5-logo-0.png" width="30px" /><code/>
